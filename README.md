@@ -14,3 +14,12 @@ NLP的数据增强Demo
 ```bash
 python augment.py --input=test_input.csv --output=test_output.csv --num_aug=20 --alpha=0.05
 ```
+
+## 添加一个翻译的方法
+
+```bash
+python translate.py 
+
+中文转英文: Hello
+英文转中文: 你好
+```
